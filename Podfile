@@ -4,7 +4,8 @@
 target 'DogDonation' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-pod 'SteviaLayout'
+	
   # Pods for DogDonation
-
+	
+	pod 'SteviaLayout'
 end

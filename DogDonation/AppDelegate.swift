@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Garantiee the window in not nil
         guard let window = self.window else { fatalError("No Window") }
         
-        window.rootViewController = donation25()
+        window.rootViewController = Donate()
         
         window.makeKeyAndVisible()
         
