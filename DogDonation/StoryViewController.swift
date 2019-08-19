@@ -42,7 +42,7 @@ class StoryViewController: UIViewController {
     let lblBonding = UILabel()
     let lblLeash = UILabel()
     
-    let imageCenter = UIImageView(image: UIImage(named: "dog3"))
+    let imageCenter = UIImageView(image: UIImage(named: "dog3-1"))
     let btnFollow = UIButton()
     let lblContent = UILabel()
     
