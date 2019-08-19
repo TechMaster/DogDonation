@@ -12,6 +12,7 @@
 		903C9D6C230191780027893B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 903C9D6B230191780027893B /* AppDelegate.swift */; };
 		903C9D73230191790027893B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 903C9D72230191790027893B /* Assets.xcassets */; };
 		903C9D76230191790027893B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 903C9D74230191790027893B /* LaunchScreen.storyboard */; };
+		A6BF02D2230AC6920000F7D6 /* StoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6BF02D1230AC6920000F7D6 /* StoryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		903C9D72230191790027893B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		903C9D75230191790027893B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		903C9D77230191790027893B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6BF02D1230AC6920000F7D6 /* StoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StoryViewController.swift; path = ../../BTVN/DogDonation/DogDonation/StoryViewController.swift; sourceTree = "<group>"; };
 		FCFE581F22915FEC854D8D4E /* Pods_DogDonation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DogDonation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -63,6 +65,7 @@
 				903C9D72230191790027893B /* Assets.xcassets */,
 				903C9D74230191790027893B /* LaunchScreen.storyboard */,
 				903C9D77230191790027893B /* Info.plist */,
+				A6BF02D1230AC6920000F7D6 /* StoryViewController.swift */,
 				9012C0AD230A731200EBE133 /* Donate.swift */,
 			);
 			path = DogDonation;
@@ -199,6 +202,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6BF02D2230AC6920000F7D6 /* StoryViewController.swift in Sources */,
 				9012C0AE230A731200EBE133 /* Donate.swift in Sources */,
 				903C9D6C230191780027893B /* AppDelegate.swift in Sources */,
 			);
